@@ -1,3 +1,4 @@
+import 'DataTables.net';
 let result = [];
 let company;
 
@@ -42,4 +43,4 @@ fetch("http://localhost:3000/companies")
             tbody.append(tr);
         });
     });
-  });
+  })

@@ -11,5 +11,8 @@
     "users"
   ],
   "author": "Oscar Sherelis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/jquery": "^3.3.31"
+  }
 }
